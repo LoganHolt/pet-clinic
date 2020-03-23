@@ -1,6 +1,5 @@
-package sfgpetclinic;
+package dev.loganholt.sfgpetclinic;
 
-import dev.loganholt.sfgpetclinic.SfgPetClinicApplication;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
